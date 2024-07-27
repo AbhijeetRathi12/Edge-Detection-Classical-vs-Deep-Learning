@@ -33,7 +33,7 @@ pip install torch torchvision scikit-image numpy matplotlib argparse tensorboard
 * Clone this repository and navigate to the `Phase2/Code` directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AbhijeetRathi12/Edge-Detection-Classical-vs-Deep-Learning.git
 cd Phase2/Code
 ```
 
