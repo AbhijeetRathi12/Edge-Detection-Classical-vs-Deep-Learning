@@ -1,4 +1,4 @@
-# Computer Vision HW0: Alohomora
+# Edge-Detection-Classical-vs-Deep-Learning
 
 ## Project Overview
 This project involves two main phases: boundary detection and deep learning model implementation and comparison. The objective is to enhance edge detection techniques and explore various neural network architectures on the CIFAR-10 dataset.
