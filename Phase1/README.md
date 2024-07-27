@@ -37,7 +37,7 @@ pip install numpy opencv-python scipy scikit-learn matplotlib imutils
 
 ```bash
 git clone https://github.com/AbhijeetRathi12/Edge-Detection-Classical-vs-Deep-Learning.git
-cd your-repo-name
+cd Edge-Detection-Classical-vs-Deep-Learning-main/
 ```
 
 * Place your input image in the same directory as the script and name it input.jpg.
@@ -45,7 +45,7 @@ cd your-repo-name
 * Run the script:
 
 ```bash
-python script_name.py
+python Phase1/Code/Wrapper.py
 ```
 
 * The script will generate and save the following outputs:
