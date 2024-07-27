@@ -36,7 +36,7 @@ pip install numpy opencv-python scipy scikit-learn matplotlib imutils
 * Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/AbhijeetRathi12/Edge-Detection-Classical-vs-Deep-Learning.git
 cd your-repo-name
 ```
 
