@@ -5,7 +5,7 @@ This repository contains the code for training and testing a neural network on t
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#setup)
+- [Usage](#Usage)
 - [Results](#results)
 
 ## Installation
