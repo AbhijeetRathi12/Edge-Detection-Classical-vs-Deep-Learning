@@ -7,9 +7,8 @@ This repository contains the code for training and testing a neural network on t
 - [Installation](#installation)
 - [Usage](#setup)
 - [Results](#results)
-- [Acknowledgements](#acknowledgements)
 
-## Prerequisites
+## Installation
 
 To run the code in this repository, you need to have the following installed:
 
