@@ -3,6 +3,20 @@
 ## Project Overview
 This project involves two main phases: boundary detection and deep learning model implementation and comparison. The objective is to enhance edge detection techniques and explore various neural network architectures on the CIFAR-10 dataset.
 
+| **Phase 1 Results Overview** |  |
+|----------|----------|
+| ![Alt1](7.jpg) | ![Alt2](Pb_7.png) |
+| Input Image  | Canny, Sobel, Probability of Boundary Image  |
+
+
+| **Phase 2 Results Overview:** |  |
+|----------|----------|
+| **Loss & Accuracy Plots**| **Loss & Accuracy Plots** |
+| ![Alt1](SNN.png) | ![Alt2](ResNet.png) |
+| Simple Neural Network | ResNet  |
+| ![Alt3](ResNext.png) | ![Alt4](DenseNet.png) |
+| ResNext | DenseNet  |
+
 ## Phase 1: Shake My Boundary
 ### Objective
 To implement and improve the Probability of Boundary (pb) detection algorithm, which considers texture, brightness, and color discontinuities for more accurate edge detection.
@@ -54,6 +68,7 @@ To implement and compare multiple neural network architectures on the CIFAR-10 d
 ## Results
 - The pb detection algorithm showed reduced noise and improved edge detection accuracy compared to classical methods.
 - Among the deep learning models, different architectures exhibited varying levels of accuracy and efficiency, with DenseNet showing the best performance in some scenarios.
+- A detailed analysis of all results is available in **[Report.pdf](./Report.pdf)**.
 
 ## Conclusion
 This project successfully implemented advanced boundary detection techniques and compared multiple neural network architectures, providing insights into their effectiveness on the CIFAR-10 dataset.
