@@ -1,7 +1,6 @@
 # Edge-Detection-Classical-vs-Deep-Learning
 
-## Project Overview
-This project involves two main phases: boundary detection and deep learning model implementation and comparison. The objective is to enhance edge detection techniques and explore various neural network architectures on the CIFAR-10 dataset.
+## Overview
 
 | **Phase 1 Results Overview** |  |
 |----------|----------|
@@ -16,6 +15,8 @@ This project involves two main phases: boundary detection and deep learning mode
 | Simple Neural Network | ResNet  |
 | ![Alt3](ResNext.png) | ![Alt4](DenseNet.png) |
 | ResNext | DenseNet  |
+
+This project involves two main phases: boundary detection and deep learning model implementation and comparison. The objective is to enhance edge detection techniques and explore various neural network architectures on the CIFAR-10 dataset.
 
 ## Phase 1: Shake My Boundary
 ### Objective
